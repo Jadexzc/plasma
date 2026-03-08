@@ -42,8 +42,8 @@ except ImportError:
 _TOOL      = "Plasma"
 _SUBTITLE  = "Advanced Web Vulnerability Scanner"
 _AUTHOR    = "Created by Crypt0nymz"
-_VERSION   = "v3.0.0"
-_WEBSITE   = "github.com/Crypt0nymz/plasma"
+_VERSION   = "v1"
+_WEBSITE   = "github.com/Jadexzc/plasma"
 
 # ANSI rainbow palette (6-colour cycle, all standard terminals)
 _ANSI_RAINBOW = [
